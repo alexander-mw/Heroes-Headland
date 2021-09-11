@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/vladimir/StorageBank/heroes-headland/src/main.c
+glad/glad.h
+-
+GLFW/glfw3.h
+-
+stdio.h
+-
+

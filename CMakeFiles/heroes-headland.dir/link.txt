@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/heroes-headland.dir/src/glad.c.o CMakeFiles/heroes-headland.dir/src/main.c.o -o heroes-headland  -lGL -ldl -lglfw 

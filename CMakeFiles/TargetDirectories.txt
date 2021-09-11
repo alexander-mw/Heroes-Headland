@@ -1,0 +1,3 @@
+/media/vladimir/StorageBank/heroes-headland/CMakeFiles/rebuild_cache.dir
+/media/vladimir/StorageBank/heroes-headland/CMakeFiles/edit_cache.dir
+/media/vladimir/StorageBank/heroes-headland/CMakeFiles/heroes-headland.dir
